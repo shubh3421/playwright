@@ -32,9 +32,9 @@ let _score = 100;
 let $amount = 500;
 
 // Wrong variable names — these will cause errors
-let 1name = "Bob"; // Cannot start with a number
-let first name = "Bob"; // Cannot have a space
-let let = "Bob"; // Cannot use a reserved keyword 
+//let sname = "Bob"; // Cannot start with a number
+//let first name = "Bob"; // Cannot have a space
+//let let = "Bob"; // Cannot use a reserved keyword 
 
 /*camelCase — Recommended for JavaScript
 • First word is all lowercase
